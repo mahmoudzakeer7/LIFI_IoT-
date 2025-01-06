@@ -11,6 +11,8 @@ This technology can achieve very high data transfer rates and is more secure bec
 
 Applications for Elderly Care:
 Your idea of using Li-Fi for tracking and assisting elderly people is innovative and feasible. Here's how it could work:
+Application for Smart Homes too:
+you can conntact with devices with light instead of bluetooth or wifi
 
 Device Tracking: Small wearable devices (like wristbands or badges) equipped with Li-Fi receivers and transmitters could communicate with Li-Fi-enabled light fixtures in the home. This would allow caregivers to track the location of the elderly person without intrusive cameras.
 
