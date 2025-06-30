@@ -36,6 +36,18 @@ Limited Range: The range of Li-Fi is shorter compared to Wi-Fi, which may requir
 
 Device Compatibility: Wearable devices and home infrastructure would need to be equipped with Li-Fi technology.
 
-# for congtrolling the system:
+# for using the system:
 we have terminal for user in Tx to choose function that he want to do.
-- 
+- 1 => turn on motor1
+- 2 => turn off motor1
+- 3 => turn on motor2
+- 4 => turn off motor2
+- 5 => turn on lamp
+- 6 => turn off lamp
+- 7 => turn on lamp
+- 8 => turn off lamp
+- (+) => increase speed motor1
+- (-) => decrease speed motor1
+- (*) => increase speed motor2
+- (/) => decrease speed motor2
+-  
