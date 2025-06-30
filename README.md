@@ -1,4 +1,4 @@
-# LIFI_IoT-
+# Performance Analysis of Li-fi Communication System 
 this project can make communication between transmitter and receiver by light 
 Li-Fi (Light Fidelity), a wireless communication technology that uses light to transmit data instead of traditional radio frequencies (like Wi-Fi or Bluetooth). Li-Fi has the potential to offer more secure and private communication, as light signals are confined to the area they illuminate and cannot penetrate walls, making it harder for attackers to intercept the data remotely.
 
