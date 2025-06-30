@@ -50,4 +50,9 @@ we have terminal for user in Tx to choose function that he want to do.
 - (-) => decrease speed motor1
 - (*) => increase speed motor2
 - (/) => decrease speed motor2
--  
+
+# my future work 
+- apply wifi module that integrate my system
+- make a website that can user used it to control on the system instead of control with keypad
+
+I will do this soon..
