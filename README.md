@@ -2,7 +2,7 @@
 this project can make communication between transmitter and receiver by light 
 Li-Fi (Light Fidelity), a wireless communication technology that uses light to transmit data instead of traditional radio frequencies (like Wi-Fi or Bluetooth). Li-Fi has the potential to offer more secure and private communication, as light signals are confined to the area they illuminate and cannot penetrate walls, making it harder for attackers to intercept the data remotely.
 
-How Li-Fi Works:
+# How Li-Fi Works:
 Li-Fi uses LED light bulbs to transmit data by modulating the light intensity at extremely high speeds, which is undetectable to the human eye.
 
 A photodetector (receiver) captures the light signals and converts them back into data.
@@ -29,9 +29,13 @@ No Electromagnetic Interference: Li-Fi doesn't interfere with medical devices or
 
 Energy Efficiency: LED lights are already energy-efficient, and using them for communication adds functionality without significant additional power consumption.
 
-Challenges:
+# Challenges:
 Line of Sight: Li-Fi requires a direct line of sight between the transmitter (light) and receiver (device). Obstacles like furniture or walls can block the signal.
 
 Limited Range: The range of Li-Fi is shorter compared to Wi-Fi, which may require more light fixtures for full coverage.
 
 Device Compatibility: Wearable devices and home infrastructure would need to be equipped with Li-Fi technology.
+
+# for congtrolling the system:
+we have terminal for user in Tx to choose function that he want to do.
+- 
